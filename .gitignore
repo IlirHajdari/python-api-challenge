@@ -1,2 +1,15 @@
 # Adding config.py file.
 api_keys.py
+
+# Ignore cached files
+
+*.pyc
+__pycache__/
+
+# Ignore Jupyter checkpoints
+
+.ipynb_checkpoints/
+
+# Ignore output data
+
+output_data/
